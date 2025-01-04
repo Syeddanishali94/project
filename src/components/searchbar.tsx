@@ -78,7 +78,7 @@ const SearchBar = () => {
           type="text"
           name="search"
           id="search"
-          placeholder="Cappuccino"
+          placeholder="Burger..."
           value={query}
           onChange={handleSearch}
           className="w-full h-full border-none text-sm px-2 rounded-full focus:outline-none"
